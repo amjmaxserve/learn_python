@@ -23,16 +23,18 @@
 11. bitwise.py
 
 12. lists.py
-    a. list-method
-    b. list-itrating
-    c. list-slice
-    d. list-find
-    e. list-nested
-    f. functions
+
+- a. list-method
+- b. list-itrating
+- c. list-slice
+- d. list-find
+- e. list-nested
+- f. functions
 
 13. functions.py,function_arg.py
-    a. function-return
-    b. function-listarg
+
+- a. function-return
+- b. function-listarg
 
 14. scope.py
 15. tuples.py
