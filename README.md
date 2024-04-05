@@ -24,17 +24,17 @@
 
 12. lists.py
 
-- a. list-method
-- b. list-itrating
-- c. list-slice
-- d. list-find
-- e. list-nested
-- f. functions
+- list-method
+- list-itrating
+- list-slice
+- list-find
+- list-nested
+- functions
 
 13. functions.py,function_arg.py
 
-- a. function-return
-- b. function-listarg
+- function-return
+- function-listarg
 
 14. scope.py
 15. tuples.py
