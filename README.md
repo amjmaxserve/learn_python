@@ -10,6 +10,6 @@
 
 - Index
 
-\*\* hello.py
-\*\* leterals.py
-\*\* operators.py
+1. hello.py
+2. leterals.py
+3. operators.py
