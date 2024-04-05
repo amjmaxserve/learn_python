@@ -23,3 +23,40 @@ except:
     print("Something Went Wrong!..")
     
 print("All Done!")
+
+
+def calculate_user_input():
+    try:
+        x = int(input("Enter a number: "))
+        y = 1 / x
+        print(y)
+    except ZeroDivisionError:
+        print("Cannot divided by Zero.")
+    except:
+        print("Something went Wrong")
+    return None
+
+calculate_user_input()
+
+# raise error automatically
+
+def calculate_user_input2():
+    try:
+        x = int(input("Enter a number: "))
+        y = 1 / x
+        print(y)
+    except:
+        print("Something went Wrong")
+        raise
+    return None
+
+calculate_user_input2()
+
+# assert
+# raises an AssertionError in the expression evaluates to a falsy value
+
+import math
+x = int(input("Enter a number "))
+assert x>= 0
+x = math.sqrt(x)
+print("Result: ", x)
