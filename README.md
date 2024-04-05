@@ -21,17 +21,19 @@
 9. loops-while.py
 10. loops-for.py
 11. bitwise.py
+
 12. lists.py
-13. list-method.py
-14. list-itrating.py
-15. list-slice.py
-16. list-find.py
-17. list-nested.py
-18. functions.py
-19. function-arguments.py
-20. function-return.py
-21. function-listarg.py
-22. scope.py
-23. tuples.py
-24. dictionaries.py
-25.
+    a. list-method
+    b. list-itrating
+    c. list-slice
+    d. list-find
+    e. list-nested
+    f. functions
+
+13. functions.py,function_arg.py
+    a. function-return
+    b. function-listarg
+
+14. scope.py
+15. tuples.py
+16. dictionaries.py
